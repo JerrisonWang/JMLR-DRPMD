@@ -10,6 +10,10 @@ There are three folders. The folder Garnet Problem includes:
 
 The folder Inventory Management Problem includes:
 
-Python codes for a simple function collections,
-Python codes for generating a inventory problem with parameterized transition and applying DRPG to solve it and,
-Two CSV files which specify the cost and the empirical transition of the inventory management problem.
+1. Python codes for a basic pre-setted function collections,
+2. Python codes for solving a generated inventory problem by using DRPMD (REINFORCE on policy update) + MCTMA (inner solver)
+   with softmax policy and Gaussian mixture parametric transition kernel and,
+3. Python codes for plotting the performence.
+
+The folder Cart-Pole Problem includes:
+

@@ -3,10 +3,10 @@ This repository contains codes that support the numerical example of the submitt
 
 There are three folders. The folder Garnet Problem includes:
 
-C++ codes for generating Garnet problems with different size,\\
-C++ codes for soving the robust MDPs with our method DRPMD and the benchmark method robust value iteration,\\
-C++ codes for evaluating the time of two different inner tolerance selections and,\\
-Python codes for plotting the error decreasing performence.
+1. C++ codes for generating Garnet problems with different size,
+2. C++ codes for soving the robust MDPs with our method DRPMD and the benchmark method robust value iteration,
+3. C++ codes for evaluating the time of two different inner tolerance selections and,
+4. Python codes for plotting the error decreasing performence.
 
 The folder Inventory Management Problem includes:
 

@@ -17,7 +17,7 @@ import matplotlib
 import numpy as np
 import scipy.linalg
 import matplotlib.pyplot as plt
-from Inner_MC_function_continuous import *
+from Basic_Function_for_Continuous_Inventory import *
 import cvxpy as cp
 import pandas as pd
 import time

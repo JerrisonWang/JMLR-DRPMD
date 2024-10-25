@@ -17,3 +17,7 @@ The folder Inventory Management Problem includes:
 
 The folder Cart-Pole Problem includes:
 
+1. Python codes for the non-robust policy trainning,
+2. Python codes for the robust policy trainning within a pre-defined perturbed environment,
+3. Python codes for the robust and non-robust policies testing within a new perturbed cart-pole environment (cartpole.py).
+
